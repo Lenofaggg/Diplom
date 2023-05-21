@@ -1,0 +1,58 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="dotNetRdf">
+      <HintPath>bin\Debug\net6.0\dotNetRdf.dll</HintPath>
+    </Reference>
+    <Reference Include="dotNetRdf.Inferencing">
+      <HintPath>bin\Debug\net6.0\dotNetRdf.Inferencing.dll</HintPath>
+    </Reference>
+    <Reference Include="dotNetRdf.Query.FullText">
+      <HintPath>bin\Debug\net6.0\dotNetRdf.Query.FullText.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>bin\Debug\net6.0\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="J2N">
+      <HintPath>bin\Debug\net6.0\J2N.dll</HintPath>
+    </Reference>
+    <Reference Include="Lucene.Net">
+      <HintPath>bin\Debug\net6.0\Lucene.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Lucene.Net.Analysis.Common">
+      <HintPath>bin\Debug\net6.0\Lucene.Net.Analysis.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Lucene.Net.Queries">
+      <HintPath>bin\Debug\net6.0\Lucene.Net.Queries.dll</HintPath>
+    </Reference>
+    <Reference Include="Lucene.Net.QueryParser">
+      <HintPath>bin\Debug\net6.0\Lucene.Net.QueryParser.dll</HintPath>
+    </Reference>
+    <Reference Include="Lucene.Net.Sandbox">
+      <HintPath>bin\Debug\net6.0\Lucene.Net.Sandbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions">
+      <HintPath>bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives">
+      <HintPath>bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>bin\Debug\net6.0\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Prism">
+      <HintPath>bin\Debug\net6.0\Prism.dll</HintPath>
+    </Reference>
+    <Reference Include="VDS.Common">
+      <HintPath>bin\Debug\net6.0\VDS.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

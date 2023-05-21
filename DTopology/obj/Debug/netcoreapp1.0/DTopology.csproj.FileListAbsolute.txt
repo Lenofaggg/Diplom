@@ -1,0 +1,5 @@
+C:\Users\Пользователь\WORK\Projects\dotNetRDF\dotNetRDF_рабочая\DTopology\obj\Debug\netcoreapp1.0\DTopology.csproj.AssemblyReference.cache
+C:\Users\Пользователь\WORK\Projects\dotNetRDF\dotNetRDF_рабочая\DTopology\obj\Debug\netcoreapp1.0\DTopology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\WORK\Projects\dotNetRDF\dotNetRDF_рабочая\DTopology\obj\Debug\netcoreapp1.0\DTopology.AssemblyInfoInputs.cache
+C:\Users\Пользователь\WORK\Projects\dotNetRDF\dotNetRDF_рабочая\DTopology\obj\Debug\netcoreapp1.0\DTopology.AssemblyInfo.cs
+C:\Users\Пользователь\WORK\Projects\dotNetRDF\dotNetRDF_рабочая\DTopology\obj\Debug\netcoreapp1.0\DTopology.csproj.CoreCompileInputs.cache

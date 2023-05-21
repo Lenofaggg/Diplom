@@ -1,0 +1,121 @@
+@prefix : <http://x/> .
+
+@prefix ex: <http://example.org/>.
+
+ex:741210 ex:hasShape ex:Convex;
+         ex:hasL ex:UpTo3B;
+         ex:hasHole ex:NoHole.
+
+ex:741211 ex:hasShape ex:Convex;
+         ex:hasL ex:UpTo3B;
+         ex:hasHole ex:NoHole.
+
+ex:741214 ex:hasShape ex:Convex;
+         ex:hasL ex:UpTo3B;
+         ex:hasHole ex:Circle.
+		 
+ex:741220 ex:hasShape ex:Convex;
+         ex:hasL ex:Over3B;
+         ex:hasHole ex:NoHole.
+
+ex:741221 ex:hasShape ex:Convex;
+         ex:hasL ex:Over3B;
+         ex:hasHole ex:NoHole.
+
+ex:741224 ex:hasShape ex:Convex;
+         ex:hasL ex:Over3B;
+         ex:hasHole ex:Circle.
+
+ex:741230 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:RightAngles;
+         ex:hasL ex:UpTo3B;
+         ex:hasHole ex:NoHole.
+
+ex:741231 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:RightAngles;
+         ex:hasL ex:UpTo3B;
+         ex:hasHole ex:NoHole.
+
+ex:741234 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:RightAngles;
+         ex:hasL ex:UpTo3B;
+         ex:hasHole ex:Circle.
+		 
+ex:741240 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:RightAngles;
+         ex:hasL ex:Over3B.
+
+ex:741241 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:RightAngles;
+         ex:hasL ex:Over3B;
+         ex:hasHole ex:NoHole.
+
+ex:741244 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:RightAngles;
+         ex:hasL ex:Over3B;
+         ex:hasHole ex:Circle.
+
+ex:741250 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:NonRightAngles.
+
+ex:741251 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:NonRightAngles;
+         ex:hasHole ex:NoHole.
+
+ex:741254 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:NonRightAngles;
+         ex:hasHole ex:Circle.
+
+ex:741260 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:MixedAngles;
+         ex:hasL ex:UpTo3B.
+
+ex:741261 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:MixedAngles;
+         ex:hasL ex:UpTo3B;
+         ex:hasHole ex:NoHole.
+
+ex:741264 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:MixedAngles;
+         ex:hasL ex:UpTo3B;
+         ex:hasHole ex:Circle.
+
+ex:741270 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:MixedAngles;
+         ex:hasL ex:Over3B.
+
+ex:741271 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:MixedAngles;
+         ex:hasL ex:Over3B;
+         ex:hasHole ex:NoHole.
+
+ex:741274 ex:hasShape ex:Concave;
+         ex:hasContour ex:NoRepeating;
+         ex:hasAngles ex:MixedAngles;
+         ex:hasL ex:Over3B;
+         ex:hasHole ex:Circle.
+
+ex:741290 ex:hasShape ex:Concave;
+         ex:hasContour ex:Repeating.
+
+ex:741291 ex:hasShape ex:Concave;
+         ex:hasContour ex:Repeating;
+         ex:hasHole ex:NoHole.
+
+ex:741294 ex:hasShape ex:Concave;
+         ex:hasContour ex:Repeating;
+         ex:hasHole ex:Circle.
